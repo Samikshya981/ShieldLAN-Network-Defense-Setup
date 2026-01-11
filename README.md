@@ -23,5 +23,3 @@ Two LANs are securely connected using a site-to-site IPsec VPN.
    - show crypto isakmp sa
    - show crypto ipsec sa
 
-## Author
-Samikshya Pattanaik
